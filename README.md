@@ -7,8 +7,7 @@ Mist wind tunnel model for airflow visualisation, designed in Fusion
 
 
 Overview
-Model built around A5 window inserts and a 120x120mm fan with parametric design for scalable alterations
-Push-fit tolerances 
+Model built around A5 window inserts and a 120x120mm fan with parametric design for scalable alterations. Push-fit tolerances 
 
 Components:
 - Main body
